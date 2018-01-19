@@ -1,0 +1,7 @@
+# Host-specific files
+bin
+lib
+run
+config.json
+
+node_modules

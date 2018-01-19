@@ -1,0 +1,29 @@
+{
+  "name": "professional_blog",
+  "version": "1.0.0",
+  "description": "Professional blog",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenshank/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenshank/blog/issues"
+  },
+  "homepage": "https://github.com/stephenshank/blog#readme"
+}
